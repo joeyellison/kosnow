@@ -1,4 +1,4 @@
-FROM alpine:edge
+FROM alpine:latest
 
 ARG AUUID="fb9cd3ea-d8be-4e35-9de1-4c823483608c"
 ARG CADDYIndexPage="https://www.free-css.com/assets/files/free-css-templates/download/page296/listrace.zip"
